@@ -1,0 +1,24 @@
+body{
+    background-image: url("/tarea/1sof.jpg");
+}
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    background-color:darkgray;
+    padding: 20px;
+}
+
